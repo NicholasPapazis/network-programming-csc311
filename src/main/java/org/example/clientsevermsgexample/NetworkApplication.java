@@ -18,6 +18,7 @@ public class NetworkApplication extends Application {
         stage.show();
     }
 
+
     public static void main(String[] args) {
         launch();
     }
